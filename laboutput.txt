@@ -1,0 +1,48 @@
+ lab7a.py
+(no output)
+
+ lab7a1.py
+08:00:00 + 00:50:00 --> 08:50:00
+08:55:00 + 00:50:00 --> 09:45:00
+09:50:00 + 00:50:00 --> 10:40:00
+
+ lab7b.py 
+(no output)
+
+ lab7c.py 
+(no output)
+
+ lab7c1.py 
+08:00:00 + 00:50:00 --> 08:50:00
+08:55:00 + 00:50:00 --> 09:45:00
+09:50:00 + 1800 sec --> 10:20:00
+
+ lab7d.py
+(no output)
+
+ lab7e.py 
+(no output)
+
+ lab7f.py 
+(no output)
+
+ lab7g.py 
+print() call in main on a: object_in_main
+print() call in function1 on a: object_function1
+print() call in main on a: object_in_main
+print() call in function2 on a: function2_object
+print() call in main on a: object_in_main
+
+ lab7h.py
+print() in main on schoolName: Seneca College
+print() in function1 on schoolName: Seneca College
+print() in main on schoolName: Seneca College
+print() in function2 on schoolName: Seneca College
+print() in main on schoolName: Seneca College
+
+ lab7i.py 
+print() in main on schoolName: Seneca
+print() in function1 on schoolName: SICT
+print() in main on schoolName: SICT
+print() in function2 on schoolName: SSDO
+print() in main on schoolName: SSDO
